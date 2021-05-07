@@ -176,6 +176,7 @@ homeassistant/components/gdacs/* @exxamalte
 homeassistant/components/geniushub/* @zxdavb
 homeassistant/components/geo_json_events/* @exxamalte
 homeassistant/components/geo_rss_events/* @exxamalte
+homeassistant/components/geocaching/* @Sholofly @reinder83
 homeassistant/components/geonetnz_quakes/* @exxamalte
 homeassistant/components/geonetnz_volcano/* @exxamalte
 homeassistant/components/gios/* @bieniu

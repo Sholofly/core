@@ -84,6 +84,7 @@ FLOWS = [
     "garages_amsterdam",
     "garmin_connect",
     "gdacs",
+    "geocaching",
     "geofency",
     "geonetnz_quakes",
     "geonetnz_volcano",
