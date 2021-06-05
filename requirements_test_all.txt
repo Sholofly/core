@@ -344,7 +344,7 @@ garages-amsterdam==2.1.1
 garminconnect_aio==0.1.4
 
 # homeassistant.components.geocaching
-geocachingapi==0.0.7
+geocachingapi==0.1.0
 
 # homeassistant.components.geo_json_events
 # homeassistant.components.usgs_earthquakes_feed
